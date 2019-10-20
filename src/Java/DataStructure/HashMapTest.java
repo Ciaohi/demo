@@ -6,7 +6,8 @@ import java.util.Map;
 /**
  * Created by ciaohi on 2019/10/19 15:03
  */
-public class HashMapTest {
+public class
+HashMapTest {
     public static void main(String[] args) {
         Map<Key, String> map=new HashMap<>();
         map.put(new Key("博主"),"Ciaohi");
